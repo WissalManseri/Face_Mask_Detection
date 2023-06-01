@@ -1,0 +1,19 @@
+dataset/
+  train/
+    mask/
+      mask_image_1.jpg
+      mask_image_2.jpg
+      ...
+    no_mask/
+      no_mask_image_1.jpg
+      no_mask_image_2.jpg
+      ...
+  test/
+    mask/
+      mask_image_1.jpg
+      mask_image_2.jpg
+      ...
+    no_mask/
+      no_mask_image_1.jpg
+      no_mask_image_2.jpg
+      ...
