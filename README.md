@@ -1,4 +1,5 @@
 # Détection de masque facial
+
 Ce projet implémente une solution de détection de masque facial en utilisant l'apprentissage en profondeur (deep learning). Le modèle est entraîné à distinguer les images de visages avec et sans masque, en utilisant un réseau de neurones convolutifs (CNN).
 
 # Données
